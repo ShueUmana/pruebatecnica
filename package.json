@@ -1,0 +1,19 @@
+{
+  "name": "pruebatecnica",
+  "version": "1.0.0",
+  "description": "prueba tecnica SmartSoftint",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josueUmaña",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsoneditor": "^5.5.11",
+    "mongodb": "^2.2.25",
+    "mongoose": "^4.9.0",
+    "morgan": "^1.8.1"
+  }
+}
